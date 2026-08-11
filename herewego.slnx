@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="herewego/herewego.vcxproj" Id="8eb6a35d-8063-4b61-b699-7f3f775aa81a" />
+</Solution>
