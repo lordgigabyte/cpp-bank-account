@@ -29,10 +29,11 @@ This project was built and tested in Visual Studio.
 3. Build and run (Ctrl+F5 or the green run button).
 No external dependencies, just the C++ standard library is used.
 
+## Why I made it:
 I made this project while learning C++ and it took me about 5 days of active one hour sessions, I learned a lot of things and also felt some familiarities from my Java background, though this felt like i had a lot more control and responsibility of the program itself. This will in no way be an easy journey, but I am definitely looking forward to it. The most interesting parts i learned were probably things like iterators or references since I haven't really used things like references in the past.
 
 
-**Example interaction:**
+## Example interaction:
 ```
   Hello and welcome, what would you like to do?
   Deposit
