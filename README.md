@@ -21,7 +21,7 @@ This is my first C++ project. It's a simple banking program that taught me the c
 **Exit**
   - Lets the user exit the program.
 
-## Build & run
+## Build & run:
 This project was built and tested in Visual Studio.
 
 1. Clone the repository.
